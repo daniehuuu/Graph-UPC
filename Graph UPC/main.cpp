@@ -68,7 +68,7 @@ int main() {
   //Imprimir los vértices con sus arcos
   imprGrafo(G); */
 
-
+  delete G;
   cin.get();
   return 0;
 }
