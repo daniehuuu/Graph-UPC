@@ -22,7 +22,7 @@ Se desconoce el origen de este problema.
 
 ## Abrir el proyecto en VS
 El programa fue construido en [Replit](https://replit.com/) y [VSC](https://code.visualstudio.com/). Si no utilizan VSC, pueden convertir el proyecto a uno de VS siguiendo estos pasos
-1. Descargar el repositorio y descomprir
+1. Descargar el repositorio y descomprimir
 2. Abrir VS y seleccionar la opción de continuar sin código
 3. Dirigirse a archivo y luego a proyecto de código existente
 4. En la ventana emergente seleccionar Visual C++
